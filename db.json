@@ -1,0 +1,136 @@
+{
+  "videos": [
+    {
+      "title": "S.P.A.R.K",
+      "imageUrl": "https://i.ytimg.com/vi/6-u53fvW0_c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKYs-OhSowmA4EZrdSKLP1LZOjFw",
+      "videoUrl": "https://www.youtube.com/embed/6-u53fvW0_c?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 1
+    },
+    {
+      "title": "M.A.T.T.A",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZSggJo7eZEJU2IZISxiAL0aOC77D4i0DAA&s",
+      "videoUrl": "https://www.youtube.com/embed/8bfH0EYn0Pg?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 3
+    },
+    {
+      "title": "A.R.M Trailer",
+      "imageUrl": "https://i.ytimg.com/vi/rFgS10V8908/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/rFgS10V8908?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 4
+    },
+    {
+      "title": "Illuminati",
+      "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 5
+    },
+    {
+      "title": "Jaada",
+      "imageUrl": "https://i.ytimg.com/vi/HUAAYwtusLI/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/HUAAYwtusLI?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 6
+    },
+    {
+      "title": "The Last Dance",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqiE-tgK4bINwQ01sevZQdpmyEoLpsrGekQ&s",
+      "videoUrl": "https://www.youtube.com/embed/Wv80WlK3rzI?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "category": "Music",
+      "videos": [
+        {
+          "title": "S.P.A.R.K",
+          "imageUrl": "https://i.ytimg.com/vi/6-u53fvW0_c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKYs-OhSowmA4EZrdSKLP1LZOjFw",
+          "videoUrl": "https://www.youtube.com/embed/6-u53fvW0_c?si=Ps4CzcKGyALbtps6&autoplay=1",
+          "id": 1
+        },
+        {
+          "title": "M.A.T.T.A",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZSggJo7eZEJU2IZISxiAL0aOC77D4i0DAA&s",
+          "videoUrl": "https://www.youtube.com/embed/8bfH0EYn0Pg?si=Ps4CzcKGyALbtps6&autoplay=1",
+          "id": 3
+        },
+        {
+          "title": "Illuminati",
+          "imageUrl": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/tOM-nWPcR4U?si=Ps4CzcKGyALbtps6&autoplay=1",
+          "id": 5
+        },
+        {
+          "title": "Jaada",
+          "imageUrl": "https://i.ytimg.com/vi/HUAAYwtusLI/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/HUAAYwtusLI?si=Ps4CzcKGyALbtps6&autoplay=1",
+          "id": 6
+        },
+        {
+          "title": "The Last Dance",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqiE-tgK4bINwQ01sevZQdpmyEoLpsrGekQ&s",
+          "videoUrl": "https://www.youtube.com/embed/Wv80WlK3rzI?si=Ps4CzcKGyALbtps6&autoplay=1",
+          "id": 7
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "vid": 1,
+      "title": "S.P.A.R.K",
+      "url": "https://www.youtube.com/embed/6-u53fvW0_c?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:13.048Z",
+      "id": 1
+    },
+    {
+      "vid": 2,
+      "title": "G.O.A.T Song",
+      "url": "https://www.youtube.com/embed/5GSt99nxiJQ?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:16.477Z",
+      "id": 2
+    },
+    {
+      "vid": 3,
+      "title": "M.A.T.T.A",
+      "url": "https://www.youtube.com/embed/8bfH0EYn0Pg?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:20.322Z",
+      "id": 3
+    },
+    {
+      "vid": 4,
+      "title": "A.R.M Trailer",
+      "url": "https://www.youtube.com/embed/rFgS10V8908?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:24.041Z",
+      "id": 4
+    },
+    {
+      "vid": 5,
+      "title": "Illuminati",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:28.197Z",
+      "id": 5
+    },
+    {
+      "vid": 6,
+      "title": "Jaada",
+      "url": "https://www.youtube.com/embed/HUAAYwtusLI?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:31.686Z",
+      "id": 6
+    },
+    {
+      "vid": 7,
+      "title": "The Last Dance",
+      "url": "https://www.youtube.com/embed/Wv80WlK3rzI?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-18T11:39:34.810Z",
+      "id": 7
+    },
+    {
+      "vid": 2,
+      "title": "G.O.A.T Song",
+      "url": "https://www.youtube.com/embed/5GSt99nxiJQ?si=Ps4CzcKGyALbtps6&autoplay=1",
+      "date": "2024-09-19T10:40:06.518Z",
+      "id": 8
+    }
+  ]
+}
